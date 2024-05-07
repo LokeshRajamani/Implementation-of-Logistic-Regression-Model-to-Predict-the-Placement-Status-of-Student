@@ -77,7 +77,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 # Output:
-```
+
 ![Screenshot 2024-03-12 093628](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/dc4d32bb-297b-4532-ae9e-8639734cb559)
 
 ![Screenshot 2024-03-12 093643](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/dbd0d63e-3c83-4d49-abd5-a4baa522a2f8)
@@ -89,10 +89,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2024-03-12 093713](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/27f37da4-2753-44fe-8b1c-ad3ec00aaff3)
 
 ![Screenshot 2024-03-12 093726](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/e754158a-eccf-46d6-810e-7cea6d2a42c8)
-```
-```
-![Screenshot 2024-03-12 093733](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/d69a96d0-eb1f-48ff-8a8c-0746ccbc5103)
 
+![Screenshot 2024-03-12 093733](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/d69a96d0-eb1f-48ff-8a8c-0746ccbc5103)
 
 ![Screenshot 2024-03-12 093741](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/cc9ff84b-57eb-4511-ac16-e44486a6c541)
 
@@ -102,6 +100,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![Screenshot 2024-03-12 093756](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/c092bdc8-c3d9-41d3-a42f-e4ed30d60960)
 
-```
+
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
