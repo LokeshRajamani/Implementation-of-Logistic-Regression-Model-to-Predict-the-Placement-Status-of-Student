@@ -18,9 +18,10 @@ To write a program to implement the the Logistic Regression Model to Predict the
 8. Apply new unknown values
 ## Program:
 ```
-## Developed by: LOKESH R
-## RegisterNumber: 212222240055
-
+Developed by: LOKESH R
+RegisterNumber: 212222240055
+```
+```
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
@@ -75,7 +76,7 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
-## Output:
+# Output:
 
 ![Screenshot 2024-03-12 093628](https://github.com/LokeshRajamani/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/120544804/dc4d32bb-297b-4532-ae9e-8639734cb559)
 
