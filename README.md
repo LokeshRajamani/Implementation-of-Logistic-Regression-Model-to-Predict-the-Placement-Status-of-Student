@@ -1,5 +1,5 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-
+# Ex-4 :Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Date: 12.03.2024
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
